@@ -27,14 +27,20 @@ namespace Task02
             int N = int.Parse(Console.ReadLine());
 
             // TODO: инициализируйте массив и передайте его в соответствующий метод
+            int[] array = new int[N];
+            FillArray(ref array);
 
-            
             // TODO: выведите массив на экран
+            foreach (int elem in array)
+                Console.Write(elem + " ");
+            Console.Write("\n");
         }
 
-        static void FillArray()
+        static void FillArray(ref int[] array)
         {
             // TODO: заполните массив соответствующими данными
+            for (int count = 0; count < array.Length; ++count)
+                array[count] = (int)Math.Pow(2, count);
         }
     }
 }
