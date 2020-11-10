@@ -36,7 +36,7 @@ namespace Task05
 
             // TODO: выведите массив на экран в требуемом порядке
             for (int count = N - 1; count >= 0; --count)
-                Console.Write(array[count]);
+                Console.Write(array[count] + " ");
             Console.Write("\n");
         }
 
