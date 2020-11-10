@@ -27,18 +27,18 @@ namespace Task04
         public static void RunTask04()
         {
             int N = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine());
+            int d = int.Parse(Console.ReadLine());
 
-            int A, D;
-            // TODO: считайте необходимые значения A и D
-            
-            // TODO: инициализируйте массив и передайте его в соответствующий метод вместе с необходимыми значениями 
-            
+            // TODO: инициализируйте массив и передайте его в соответствующий метод
+            long[] array = new long[N];
+            for (int count = 0; count < N; ++count)
+                array[count] = a + count * d;
+
             // TODO: выведите массив на экран
-        }
-        
-        static void FillArray()
-        {
-            // TODO: заполните массив соответствующими данными
+            foreach (long elem in array)
+                Console.Write(elem + " ");
+            Console.Write("\n");
         }
     }
 }
