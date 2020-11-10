@@ -27,8 +27,8 @@ namespace Task04
         public static void RunTask04()
         {
             int N = int.Parse(Console.ReadLine());
-            int a = int.Parse(Console.ReadLine());
-            int d = int.Parse(Console.ReadLine());
+            long a = int.Parse(Console.ReadLine());
+            long d = int.Parse(Console.ReadLine());
 
             // TODO: инициализируйте массив и передайте его в соответствующий метод
             long[] array = new long[N];
