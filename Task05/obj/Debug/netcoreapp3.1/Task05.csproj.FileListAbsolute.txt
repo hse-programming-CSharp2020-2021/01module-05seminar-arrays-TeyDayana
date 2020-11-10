@@ -1,0 +1,13 @@
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.exe
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.deps.json
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.json
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.dev.json
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.dll
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\bin\Debug\netcoreapp3.1\Task05.pdb
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.csprojAssemblyReference.cache
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfoInputs.cache
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfo.cs
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.csproj.CoreCompileInputs.cache
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.dll
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.pdb
+C:\Users\dayan\Source\Repos\01module-05seminar-arrays-TeyDayana\Task05\obj\Debug\netcoreapp3.1\Task05.genruntimeconfig.cache
