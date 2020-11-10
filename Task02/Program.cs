@@ -32,7 +32,7 @@ namespace Task02
 
             // TODO: выведите массив на экран
             foreach (long elem in array)
-                Console.Write(elem + "\t");
+                Console.Write(elem + " ");
             Console.Write("\n");
         }
 
