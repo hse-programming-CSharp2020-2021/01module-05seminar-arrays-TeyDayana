@@ -31,7 +31,7 @@ namespace Task05
             int N = int.Parse(Console.ReadLine());
 
             // TODO: объявите массив и вызовите метод для его заполнения
-            int[] array = new int[N];
+            long[] array = new long[N];
             Result(ref array);
 
             // TODO: выведите массив на экран в требуемом порядке
@@ -40,7 +40,7 @@ namespace Task05
             Console.Write("\n");
         }
 
-        public static void Result(ref int[] array)
+        public static void Result(ref long[] array)
         {
             array[0] = 1;
             array[1] = 1;
